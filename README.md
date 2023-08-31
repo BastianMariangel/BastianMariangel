@@ -21,7 +21,9 @@ I'm passionate about creating and developing web applications that provide meani
 - <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> Spring boot 
 - <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/> GitHub
 - <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> Git
-- <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/> Visual Studio Code 
+- <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/> Visual Studio Code
+- <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS
+- <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> Javascript
 
 ### Portfolio
 
