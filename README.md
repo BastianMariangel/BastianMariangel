@@ -18,7 +18,7 @@ I'm passionate about creating and developing web applications that provide meani
 - Java
 - Html
 - Bootstrap
-- Spring boot https://iconos8.es/icon/90519/logotipo-de-primavera
+- Spring boot
 - Git, GitHub
 - Visual Studio Code
 - Postman
