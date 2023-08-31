@@ -15,14 +15,12 @@ I'm passionate about creating and developing web applications that provide meani
 
 #### Languages and Tools
 
-- Java
-- Html
-- Bootstrap
-- Spring boot
-- Git, GitHub
-- Visual Studio Code
-- Postman
-- IntelliJ
+- Java <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+- Html <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+- Bootstrap <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+- Spring boot <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+- Git, GitHub <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>
+- Visual Studio Code <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
 
 ### Portfolio
 
