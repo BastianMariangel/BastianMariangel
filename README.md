@@ -1,5 +1,7 @@
-# Hi there, I'm Bastián Mariángel! 👋
-## Full Stack Developer | Chile 🚀
+<div align="center">
+  <h1>Hi there, I'm Bastián Mariángel! 👋</h1>
+  <h2>Full Stack Developer | Chile 🚀</h2>
+</div>
 
 ### About Me
 
