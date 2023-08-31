@@ -1,5 +1,5 @@
-# Hi 👋, im Bastián Mariángel
-## I am a Full Stack Developer, from Chile
+# Hi there, I'm Bastián Mariángel! 👋
+## Full Stack Developer | Chile 🚀
 
 ### About Me
 
