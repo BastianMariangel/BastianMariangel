@@ -29,6 +29,7 @@ Check out my portfolio for some of the projects I've worked on: [Portfolio](work
 
 ### GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianMariangel&show_icons=true)
 
 
 ### Recent Projects
