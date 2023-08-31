@@ -34,7 +34,7 @@ Check out my portfolio for some of the projects I've worked on: [Portfolio](work
 
 ### Future Projects
 
-- [Project 1](https://bastianmariangel.github.io/projectT/)
+- [Project T](https://bastianmariangel.github.io/projectT/)
 
 
 Feel free to connect with me! Let's collaborate and create amazing things together. 🌟
