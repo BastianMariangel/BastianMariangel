@@ -1,3 +1,6 @@
+# Hi 👋, im Bastián Mariángel
+## I am a Full Stack Developer, from Chile
+
 ### About Me
 
 I'm passionate about creating and developing web applications that provide meaningful solutions. With a strong foundation in both frontend and backend technologies, I strive to deliver seamless user experiences combined with efficient and robust server-side functionality.
