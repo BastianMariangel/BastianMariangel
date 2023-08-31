@@ -32,9 +32,9 @@ Check out my portfolio for some of the projects I've worked on: [Portfolio](work
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianMariangel&show_icons=true)
 
 
-### Recent Projects
+### Future Projects
 
-- [Project 1](https://github.com/BastianMariangel/projectT)
+- [Project 1]([https://github.com/BastianMariangel/projectT](https://bastianmariangel.github.io/projectT/))
 
 
 Feel free to connect with me! Let's collaborate and create amazing things together. 🌟
