@@ -9,7 +9,7 @@ I'm passionate about creating and developing web applications that provide meani
 
 - 🔭 I’m currently working on enhancing my skills and taking on new challenging projects.
 - 🌱 I’m constantly learning and staying up-to-date with the latest trends and technologies in the world of software development.
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/bastián-mariangel-724505271/)) | 
+- 📫 How to reach me: [LinkedIn]([[https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/bastián-mariangel-724505271/)](https://www.linkedin.com/in/bastián-mariangel-724505271/)) | 
 
 ### Tech Stack
 
