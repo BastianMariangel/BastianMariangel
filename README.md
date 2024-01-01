@@ -14,8 +14,6 @@ Me apasiona crear y desarrollar aplicaciones web que brinden soluciones signific
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Profile">
 </a>
 
-### Tech Stack
-
 #### Lenguajes y Herramientas
 
 - <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java 
