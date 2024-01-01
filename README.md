@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Hi there, I'm Bastián Mariángel! 👋</h1>
-  <h2>Full Stack Developer | Chile 🚀</h2>
+  <h1>Hola!, ¡Soy Bastián Mariángel! 👋</h1>
+  <h2>Desarrollador Full Stack | Chile 🚀</h2>
 </div>
 
-### About Me
+### Acerca de mi
 
-I'm passionate about creating and developing web applications that provide meaningful solutions. With a strong foundation in both frontend and backend technologies, I strive to deliver seamless user experiences combined with efficient and robust server-side functionality.
+Me apasiona crear y desarrollar aplicaciones web que brinden soluciones significativas. Con una base sólida en tecnologías frontend y backend, me esfuerzo por ofrecer experiencias de usuario perfectas combinadas con una funcionalidad del lado del servidor eficiente y sólida.
 
-- 🔭 I’m currently working on enhancing my skills and taking on new challenging projects.
-- 🌱 I’m constantly learning and staying up-to-date with the latest trends and technologies in the world of software development.
-- 📫 How to reach me:
+- 🔭 Actualmente estoy trabajando para mejorar mis habilidades y asumir nuevos proyectos desafiantes.
+- 🌱 Estoy constantemente aprendiendo y manteniéndome actualizado con las últimas tendencias y tecnologías en el mundo del desarrollo de software.
+- 📫 Cómo contactarme:
 - <a href="https://www.linkedin.com/in/bastián-mariangel-724505271/">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Profile">
 </a>
 
 ### Tech Stack
 
-#### Languages and Tools
+#### Lenguajes y Herramientas
 
 - <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java 
 - <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> Html 
@@ -30,17 +30,19 @@ I'm passionate about creating and developing web applications that provide meani
 
 ### Portfolio
 
-Check out my portfolio for some of the projects I've worked on: [Portfolio](working on it)
+Consulte mi portafolio para ver algunos de los proyectos en los que he trabajado: [Portfolio](trabajando en él)
 
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianMariangel&show_icons=true)
 
 
-### Future Projects
-
-Work in progress
+### Proyectos Futuros
 
 
-Feel free to connect with me! Let's collaborate and create amazing things together. 🌟
+Trabajo en progreso
+
+
+¡Siéntete libre de conectarte conmigo! Colaboremos y creemos cosas increíbles juntos. 🌟
+
 
